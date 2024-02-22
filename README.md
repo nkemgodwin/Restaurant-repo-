@@ -1,2 +1,2 @@
 # Restaurant-repo-
-Repo for my restaurant project
+My first restaurant project
