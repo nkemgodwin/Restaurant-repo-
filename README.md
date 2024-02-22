@@ -1,2 +1,2 @@
 # Restaurant-repo-
-My first restaurant project
+A website designed for the TasteTrek, the best online restaurant in the world. 
